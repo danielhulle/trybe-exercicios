@@ -1,0 +1,21 @@
+/*ol li.impar{
+    background-color: yellow;
+    text-transform: uppercase;
+}
+
+li.par{
+    color: green;
+}
+*/
+
+ol{
+    background-color: yellow;
+}
+
+.par{
+    color: green;
+}
+
+.impar{
+    text-transform: uppercase;
+}
