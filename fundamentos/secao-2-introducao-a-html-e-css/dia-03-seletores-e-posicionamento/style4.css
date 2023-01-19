@@ -38,3 +38,24 @@ h1 em, h2 em {
 #aliados:hover{
     font-weight: bold;
 }
+
+#aliados li a[href*="stackoverflow"]:hover {
+    color: orange;
+}
+
+
+#aliados li a[href*="w3schools"]:hover {
+    color: rgb(0, 207, 128);
+}
+
+#aliados li a[href*="mozilla"]:hover {
+    color: black;
+}
+
+#aliados li a[href*="devdocs"]:hover {
+    color: yellow;
+}
+
+#aliados li a[href*="trybe"]:hover {
+    color: green;
+}
